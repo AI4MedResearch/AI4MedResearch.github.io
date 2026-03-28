@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "AI4MedResearch/blog",
+    "data-repo": "AI4MedResearch/AI4MedResearch.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
